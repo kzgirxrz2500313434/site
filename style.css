@@ -10,3 +10,8 @@ img{
 h1, h2, h3{
     text-align: center;
 }
+footer{
+    background-color: bisque;
+    color:ghostwhite
+    text-align: center;
+}
