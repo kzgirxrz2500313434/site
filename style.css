@@ -1,6 +1,6 @@
 body{
-    background-color: black;
-    color:ghostwhite;
+    background-color: rgb(197, 131, 131);
+    color:rgb(0, 0, 0);
 } 
 
 img{
@@ -10,6 +10,7 @@ img{
 h1, h2, h3{
     text-align: center;
 }
+
 footer{
     background-color:bisque;
     color: black;
