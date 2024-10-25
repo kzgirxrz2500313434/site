@@ -4,8 +4,8 @@ body{
 } 
 
 img{
-    width: 1900px;
-    height: 600px;
+    width: 1500px;
+    height: 400px;
 }
 h1, h2, h3{
     text-align: center;
@@ -14,4 +14,10 @@ footer{
     background-color:bisque;
     color: black;
     text-align: center;
+}
+button{
+    background-color:cornsilk;
+    color:black
+     font-size: x-large; 
+     size: 550 px;
 }
